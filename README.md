@@ -9,3 +9,5 @@
 ### 🎨 Мои работы и проекты:
 apollo 11 mission
 <img width="1920" height="1080" alt="apollo_mission" src="https://github.com/user-attachments/assets/2d20ff11-38cf-45b1-aa90-aec15bf45974" />
+blender logo
+<img width="1920" height="1080" alt="blender_logo" src="https://github.com/user-attachments/assets/21817f68-db41-45c5-a3d4-4a7a00daf700" /> 
