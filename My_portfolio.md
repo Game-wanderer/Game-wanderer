@@ -6,8 +6,18 @@
 
 Весь опыт в программах я получил методом проб и ошибок, зная языки Lua/C# переписывая ядро unity (дважды, один раз неудачно) С:
 
+На момент 15 июля 2026 года я так же погрузился в разработку модов для игры Project Zomboid, попутно изучив документацию Unity
+
 ### 🎨 Мои работы и проекты:
 apollo 11 mission
 <img width="1920" height="1080" alt="apollo_mission" src="https://github.com/user-attachments/assets/2d20ff11-38cf-45b1-aa90-aec15bf45974" />
 blender logo
 <img width="1920" height="1080" alt="blender_logo" src="https://github.com/user-attachments/assets/21817f68-db41-45c5-a3d4-4a7a00daf700" /> 
+Так же есть скриншоты доказывающие подлиность моих работ
+Glock17 (на стадии работы)
+<img width="1920" height="1080" alt="Glock17" src="https://github.com/user-attachments/assets/708748db-0a8a-4083-935e-0af334792062" />
+Space shutlle atlantis (тоже на стадии работы) 
+<img width="1920" height="1080" alt="Шатл" src="https://github.com/user-attachments/assets/16e3ac51-5151-4e9b-aa1f-589f0c597f45" />
+Готовая мебель "советской" стилистики 
+<img width="1920" height="1080" alt="Soviet_mebel_render_" src="https://github.com/user-attachments/assets/675ee0b2-7d03-47c7-a5ce-1f3b85c863e2" />
+Эта страница будет пополняться со временем, возможно выложу в свободный доступ свои Ассеты.
