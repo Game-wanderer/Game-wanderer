@@ -26,3 +26,4 @@ Space shutlle atlantis (тоже на стадии работы)
 <img width="1920" height="1080" alt="Lunar_incident_demo_2" src="https://github.com/user-attachments/assets/02c6532a-5bab-4732-91e8-c4dc6e42e0d0" />
 Build 0.6 URP (В настоящее время завершен, 90% работы и моделей перекочевали именно отсюда) 
 <img width="1920" height="1080" alt="Lunar_incident_demo_3" src="https://github.com/user-attachments/assets/bd721ba3-8f3f-4213-b183-55635abe900c" />
+<img width="1920" height="1080" alt="Lunar_incident_demo_4" src="https://github.com/user-attachments/assets/84994a74-a987-4d20-a121-377be2868542" />
