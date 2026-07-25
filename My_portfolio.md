@@ -21,5 +21,8 @@ Space shutlle atlantis (тоже на стадии работы)
 Готовая мебель "советской" стилистики 
 <img width="1920" height="1080" alt="Soviet_mebel_render_" src="https://github.com/user-attachments/assets/675ee0b2-7d03-47c7-a5ce-1f3b85c863e2" />
 Эта страница будет пополняться со временем, возможно выложу в свободный доступ свои Ассеты.
-# Моя игра Lunar incident 
+# Моя игра Lunar incident (Build 0.8.4)
 <img width="1920" height="1080" alt="Lunar_incident_demo_1" src="https://github.com/user-attachments/assets/87f22ccb-aa60-45fc-8c36-928517098931" />
+<img width="1920" height="1080" alt="Lunar_incident_demo_2" src="https://github.com/user-attachments/assets/02c6532a-5bab-4732-91e8-c4dc6e42e0d0" />
+Build 0.6 URP (В настоящее время завершен, 90% работы и моделей перекочевали именно отсюда) 
+<img width="1920" height="1080" alt="Lunar_incident_demo_3" src="https://github.com/user-attachments/assets/bd721ba3-8f3f-4213-b183-55635abe900c" />
