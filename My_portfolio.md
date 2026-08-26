@@ -14,6 +14,7 @@ apollo 11 mission
 blender logo
 <img width="1920" height="1080" alt="blender_logo" src="https://github.com/user-attachments/assets/21817f68-db41-45c5-a3d4-4a7a00daf700" /> 
 Так же есть скриншоты доказывающие подлиность моих работ
+
 Glock17 (на стадии работы)
 <img width="1920" height="1080" alt="Glock17" src="https://github.com/user-attachments/assets/708748db-0a8a-4083-935e-0af334792062" />
 Space shutlle atlantis (тоже на стадии работы) 
