@@ -29,3 +29,4 @@ Build 0.6 URP (В настоящее время завершен, 90% работ
 <img width="1920" height="1080" alt="Lunar_incident_demo_3" src="https://github.com/user-attachments/assets/bd721ba3-8f3f-4213-b183-55635abe900c" />
 <img width="1920" height="1080" alt="Lunar_incident_demo_4" src="https://github.com/user-attachments/assets/84994a74-a987-4d20-a121-377be2868542" />
 Build 0.9.2 (более новая вариация уровня) 
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/ca896f19-9c9a-468f-a5af-a1c3129af28e" />
