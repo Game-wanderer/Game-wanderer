@@ -15,6 +15,10 @@ blender logo
 <img width="1920" height="1080" alt="blender_logo" src="https://github.com/user-attachments/assets/21817f68-db41-45c5-a3d4-4a7a00daf700" /> 
 Так же есть скриншоты доказывающие подлиность моих работ
 
+Soviet Mebel Pack в процессе разработки
+<img width="1366" height="833" alt="image" src="https://github.com/user-attachments/assets/27a8ab20-3df3-48bc-890f-90e494246720" />
+Диван, оптимизирован под Unity (URP) имеет 1060 граней (2308 трисов) 1 Атлас материал на всю модель, а так же диван разделен на 4 независимые части, из за чего можно добавить на него разрушаемость или анимации.
+
 Glock17 (на стадии работы)
 <img width="1920" height="1080" alt="Glock17" src="https://github.com/user-attachments/assets/708748db-0a8a-4083-935e-0af334792062" />
 Space shutlle atlantis (тоже на стадии работы) 
