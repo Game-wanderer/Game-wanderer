@@ -1,4 +1,4 @@
-# Привет! Я Junior Unity Developer 👋
+# Привет! Я Junior Unity Developer / 3D technical artists 👋
 
 За моей спиной опыт в таких программах как Unity, CryEngine, Source и Blender.
 
