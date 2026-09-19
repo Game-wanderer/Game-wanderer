@@ -1,18 +1,24 @@
-# Привет! Я Junior Unity Developer / 3D technical artists 👋
+# Привет! Я Junior/middle Unity Developer / 3D technical artists 👋
 
 За моей спиной опыт в таких программах как Unity, CryEngine, Source и Blender.
 
 А так же хороший опыт в 3д, могу создавать сцены, настраивать освещение, расставлять декорации и создавать сцены с нуля.
+-Проектирую различные игровые экосистемы, люблю экспериментировать в работе.
+-Не люблю шаблонные решения/работу, а так же лишнюю бюрократию.
+-Человек который готов прийти и сказать "Смотрите как надо", зачастую смотрю на системное составляющее картины.
 
-На данный момент я занимаюсь разработкой собственной игры **Lunar Incident**, а так же своим языком Li script и игровым движком Li engine для нее.
+На данный момент я занимаюсь разработкой собственной игры **Lunar Incident**, а так же своим языком Li script и игровым движком Li engine для нее. (Игра и авторские права на нее не продаются, авторство проекта лично за мной) 
 
 Весь опыт в программах я получил методом проб и ошибок, зная языки Lua/C# переписывая ядро unity (дважды, один раз неудачно) С:
 
 На момент 15 июля 2026 года я так же погрузился в разработку модов для игры Project Zomboid, попутно изучив документацию Unity
 
 # Мой опыт 
-Blender 3d - 800 часов 
-Unity (Unity 5-6) - 1200 часов 
+Blender 3d - 900 часов 
+Unity (Unity 5-6) - 1400 часов 
+Substance painter - 200 часов 
+Cry engine - 50 часов 
+Source engine - 50 часов 
 
 ### 🎨 Мои работы и проекты:
 apollo 11 mission
@@ -29,7 +35,7 @@ Glock17 (на стадии работы)
 <img width="1920" height="1080" alt="Glock17" src="https://github.com/user-attachments/assets/708748db-0a8a-4083-935e-0af334792062" />
 Space shutlle atlantis (тоже на стадии работы) 
 <img width="1920" height="1080" alt="Шатл" src="https://github.com/user-attachments/assets/16e3ac51-5151-4e9b-aa1f-589f0c597f45" />
-Готовая мебель "советской" стилистики 
+Готовая мебель "советской" стилистики (Мой Soviet_furniture_Pack на Unity Asset store)
 <img width="1920" height="1080" alt="Soviet_mebel_render_" src="https://github.com/user-attachments/assets/675ee0b2-7d03-47c7-a5ce-1f3b85c863e2" />
 Эта страница будет пополняться со временем, возможно выложу в свободный доступ свои Ассеты.
 # Моя игра Lunar incident (Build 0.8.4)
@@ -40,3 +46,4 @@ Build 0.6 URP (В настоящее время завершен, 90% работ
 <img width="1920" height="1080" alt="Lunar_incident_demo_4" src="https://github.com/user-attachments/assets/84994a74-a987-4d20-a121-377be2868542" />
 Build 0.9.2 (более новая вариация уровня) 
 <img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/ca896f19-9c9a-468f-a5af-a1c3129af28e" />
+На этом все, в свободное время играю в RP-1 (KSP) имею там 2к часов, и знаю разницу между Несиметричном диметил гидразине и высокоэнергичном углеводороде (Гептил vs синтин) 
