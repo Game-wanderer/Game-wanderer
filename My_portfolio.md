@@ -30,6 +30,10 @@ blender logo
 Soviet Mebel Pack в процессе разработки
 <img width="1366" height="833" alt="image" src="https://github.com/user-attachments/assets/27a8ab20-3df3-48bc-890f-90e494246720" />
 Диван, оптимизирован под Unity (URP) имеет 1060 граней (2308 трисов) 1 Атлас материал на всю модель, а так же диван разделен на 4 независимые части, из за чего можно добавить на него разрушаемость или анимации.
+Актуально для 17.11.26г: Мой Soviet_Furniture_Pack в полной версии V1.5
+<img width="1806" height="863" alt="image" src="https://github.com/user-attachments/assets/5ca73c37-18ae-4094-98d6-e084aae44d85" />
+<img width="1701" height="848" alt="image" src="https://github.com/user-attachments/assets/2638f1ef-2af2-4df8-b1a4-3c7ca1e1d779" />
+<img width="1796" height="858" alt="image" src="https://github.com/user-attachments/assets/fd4fdbca-cef6-407b-b095-f910b88f11f0" />
 
 Glock17 (на стадии работы)
 <img width="1920" height="1080" alt="Glock17" src="https://github.com/user-attachments/assets/708748db-0a8a-4083-935e-0af334792062" />
